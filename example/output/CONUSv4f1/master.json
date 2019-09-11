@@ -1,8 +1,8 @@
 {
-    "out": "C:\\PhD\\Code\\grouprepo\\hydroDL-dev\\example\\output\\CONUSv4f1",
+    "out": "/Users/shua784/Dropbox/github/hydroDL/example/output/CONUSv4f1",
     "data": {
         "name": "hydroDL.data.dbCsv.DataframeCsv",
-        "rootDB": "C:\\PhD\\Code\\grouprepo\\hydroDL-dev\\example\\data",
+        "rootDB": "/Users/shua784/Dropbox/github/hydroDL/example/data",
         "subset": "CONUSv4f1",
         "varT": [
             "APCP_FORA",
@@ -61,6 +61,6 @@
             30
         ],
         "nEpoch": 5,
-        "saveEpoch": 5
+        "saveEpoch": 1
     }
 }

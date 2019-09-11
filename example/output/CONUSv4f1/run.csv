@@ -1909,3 +1909,13 @@ Epoch 2 Loss 0.604 time 95.32
 Epoch 3 Loss 0.567 time 98.45
 Epoch 4 Loss 0.540 time 96.12
 Epoch 5 Loss 0.522 time 104.41
+Epoch 1 Loss 0.719 time 82.34
+Epoch 2 Loss 0.608 time 81.50
+Epoch 3 Loss 0.564 time 81.93
+Epoch 4 Loss 0.534 time 81.83
+Epoch 5 Loss 0.520 time 83.28
+Epoch 1 Loss 0.724 time 82.75
+Epoch 2 Loss 0.606 time 84.10
+Epoch 3 Loss 0.570 time 81.22
+Epoch 4 Loss 0.541 time 80.68
+Epoch 5 Loss 0.526 time 82.79
